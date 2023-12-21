@@ -35,4 +35,4 @@ Holistic Land Use | Residential
 Current Route Operation Cost | $144.9 k/year
 
 ## 1.3 Land Use
-The northbound and southbound transit routes for 52 Dundas are both mainly comprised of residential land use considering it provides service to an area that is predominantly surrounded by housing infrastructure. Both directions also have few commercial and institutional land uses. This information was extracted with Remix.
+The northbound and southbound transit routes for 52 Dundas are both mainly comprised of residential land use considering it provides service to an area that is predominantly surrounded by housing infrastructure. Both directions also have few commercial and institutional land uses. This information was extracted with Remix. Alternatively, it can be extracted with census data for Hamilton.
