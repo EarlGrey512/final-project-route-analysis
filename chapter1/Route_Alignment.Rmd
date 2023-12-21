@@ -5,18 +5,6 @@ date: "2023-12-20"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
 # Chapter 1: Route Alignment 
 ___
 
@@ -28,6 +16,12 @@ Using Google Maps and Remix, the roundtrip distance, actual length of the route 
 According to the census data, and route characteristics from OpenStreetMaps, the population size served by the route is approximately 8245 in both directions. The service coverage area within 400 m of the local bus.
 
 52 Dundas route characteristics: 
+```{r, echo=FALSE}
+
+read.csv("C:\\Users\\tasnis1\\Desktop\\final-project-route-analysis\\data\\Route_Characteristics.csv")
+
+```
+
 
 - Roundtrip Distance: 10.49 km
 
