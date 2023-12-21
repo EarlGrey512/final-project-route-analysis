@@ -1,7 +1,7 @@
 # Chapter 4: Service Demand and Evaluation
 ___
 
-In this chapter, service deman and evaluation are explored! 
+In this chapter, service demand and evaluation are explored! 
 
 ### Service Demand
 Route 52 only runs during the periods of A.M. peak, midday and P.M. peak. Based on this we decided to allocate 34% to the A.M. peak, 32% to the midday period and the last 34% to the P.M. peak. In the data folder, the distribution of boardings at each stop along the route associated with each time period are detailed. From these results, load profile graphs can be generated. This is where the images of the figures should be displayed, however, it was unable to knit.

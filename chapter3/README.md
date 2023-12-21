@@ -1,7 +1,6 @@
 # Chapter 3: Service Frequency
 ___
-T
-he purpose of analyzing the service frequency of an existing transit system is to ensure that the level of service has adequate space to accommodate the maximum number of on-board passengers along the entire route over a given time period. Using Remix, both inbound and outbound timetable data were extracted to analyze both the weekday and weekend frequencies and fleet size. 
+The purpose of analyzing the service frequency of an existing transit system is to ensure that the level of service has adequate space to accommodate the maximum number of on-board passengers along the entire route over a given time period. Using Remix, both inbound and outbound timetable data were extracted to analyze both the weekday and weekend frequencies and fleet size. 
 
 To find the service frequency, divide the total operating hours by the number of trips made by the bus which will give you the average time between each buss arrival along the route or at the stop. Keep in mind, frequency and headway are both terms used to describe the time intervals between buses on a particular route or at a specific bus stop. However, they represent this information in slightly different ways. Frequency refers to the number of bus trips or arrivals at a stop within a specific period, often expressed as the number of buses per hour. For example, a bus service with a frequency of 15 minutes means that a bus arrives approximately every 15 minutes at that stop. 
 

@@ -43,4 +43,8 @@ Currently, Route 52 Dundas is not scheduled to run during weekends, hence the fr
 The fleet size for Route 52 is 2 buses for both time periods during the Weekday. As Route 52 does not run-on weekends, there are no fleet sizes reported. The maximum fleet is 2 buses. The buses run every 30 minutes so for the first time period, there is one bus per hour and for the second time period, there is one bus every hour and a half.
 
 
+```{r, echo=FALSE}
 
+read.csv("C:\\Users\\tasnis1\\Desktop\\final-project-route-analysis\\data\\52_Dundas_Local_Summary.csv")
+
+```
