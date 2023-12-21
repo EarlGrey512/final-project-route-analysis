@@ -4,6 +4,8 @@ Repository for my final project related to a project I have completed and my goa
 
 The scope of this project entails analyzing an existing bus route in Hamilton and then seeing how it can be optimized. The bus route being analyzed in this project will be 52 Dundas.
 
+The project is organized as follows. In chapter 1, Route Alignment is explored. In chapter 2, Stop Accessibility is then analyzed. Followed by chapter 3 where Service Frequency is detailed. Chapter 4 goes through the service demand and service evaluation. The markdown files contain tables, images, and equations that help with repeating and reproducing this works with route 52 data or any other route data!
+
 
 Licensing:
 MIT License
