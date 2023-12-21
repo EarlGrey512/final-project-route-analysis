@@ -2,7 +2,13 @@
 title: "Service_Demand_and_Evaluation"
 author: "Sadia"
 date: "2023-12-20"
-output: html_document
+output: 
+  html_document: default
+  git_hub document: default
+
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding,
+  output_format = c("html_document", "github_document")) })
 ---
 # Chapter 4: Service Demand and Evaluation
 ___
