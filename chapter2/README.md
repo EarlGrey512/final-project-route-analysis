@@ -1,3 +1,6 @@
+# Chapter 2: Stop Accessibility
+___
+
 In this section, stop accessibility is analyzed. Using Google Earth or Remix, the exact number of stops on Route 52 can be counted, and the amenities at each stop were identified. Google Street View at each stop was used to see what infrastructure is in place at each stop.
 
 There are 19 stops in the southbound route which begins at Watson Lane Loop, and ends at Orchard at Pleasant. In the southbound route, 12 of the stops which make up 67% of stops, only had a post and sidewalk as infrastructure. 6 stops (33%) had benches, and only 2 (11%) of those stops had shelters.
