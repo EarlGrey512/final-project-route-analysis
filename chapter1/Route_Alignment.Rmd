@@ -22,20 +22,17 @@ read.csv("C:\\Users\\tasnis1\\Desktop\\final-project-route-analysis\\data\\Route
 
 ```
 
+The information is also summarized below:
 
-- Roundtrip Distance: 10.49 km
-
-- Actual Route Length: 5.2 km (inbound) ; 5.2 km (outbound)
-
-- Shortest Path: 5.1 km
-
-- Ratio: 0.98
-
-- Population: 8245
-
-- Holistic Land Use: Residential
-
-- Current Route Operation Cost: $144.9 k/year
+Characteristic | Value
+- | -
+Roundtrip Distance | 10.49 km
+Actual Route Length | 5.2 km (inbound) and 5.2 km (outbound)
+Shortest Path | 5.1 km
+Ratio | 0.98
+Population | 8245
+Holistic Land Use | Residential
+Current Route Operation Cost | $144.9 k/year
 
 ## 1.3 Land Use
 The northbound and southbound transit routes for 52 Dundas are both mainly comprised of residential land use considering it provides service to an area that is predominantly surrounded by housing infrastructure. Both directions also have few commercial and institutional land uses. This information was extracted with Remix.
