@@ -9,16 +9,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
 ## Including Plots
 
 You can also embed plots, for example:
@@ -35,21 +25,23 @@ Using Google Maps and Remix, the roundtrip distance, actual length of the route 
 
 ## 1.2 Service Coverage
 
-According to the census data, and route characteristics from OpenStreetMaps, the population size served by the route is approximately 8245 in both directions. The service coverage area within 400 m of the local bus. Below is a table outline the following characteristics.
+According to the census data, and route characteristics from OpenStreetMaps, the population size served by the route is approximately 8245 in both directions. The service coverage area within 400 m of the local bus.
 
-52 Dundas route characteristics: Roundtrip Distance: 10.49 km
+52 Dundas route characteristics: 
 
-Actual Route Length: 5.2 km (inbound) ; 5.2 km (outbound)
+- Roundtrip Distance: 10.49 km
 
-Shortest Path: 5.1 km
+- Actual Route Length: 5.2 km (inbound) ; 5.2 km (outbound)
 
-Ratio: 0.98
+- Shortest Path: 5.1 km
 
-Population: 8245
+- Ratio: 0.98
 
-Holistic Land Use: Residential
+- Population: 8245
 
-Current Route Operation Cost: $144.9 k/year
+- Holistic Land Use: Residential
+
+- Current Route Operation Cost: $144.9 k/year
 
 ## 1.3 Land Use
 The northbound and southbound transit routes for 52 Dundas are both mainly comprised of residential land use considering it provides service to an area that is predominantly surrounded by housing infrastructure. Both directions also have few commercial and institutional land uses. This information was extracted with Remix.
