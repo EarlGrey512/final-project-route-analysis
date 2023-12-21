@@ -54,3 +54,20 @@ ID | Name | Distance to next stop (m) | Boardings | AM Peak | Mid-Day | PM Peak
 17 | YORK at OLYMPIC | 203 | 0 | 0 | 0 | 0 
 18 | WATSONS LANE LOOP |  | 0 |  |  |  
 
+For the northbound direction, the frequency we found doing the Load Profile Method was found to be the same frequencies as calculated in Service Frequencies. The minimum frequency is 1 bus per hour for all time periods. With this reasoning, we determined that the service currently allocated within each time interval was appropriate. We assumed the desired occupancy of a 40 ft bus which requires 35 passengers and a capacity of 75 passengers.
+
+For the southbound direction, the frequency we found doing the Load Profile Method was found to be the same frequencies as calculated in Service Frequencies. The minimum frequency is 1 bus per hour for all time periods. With this reasoning, we determined that the service currently allocated within each time interval was appropriate. We assumed the desired occupancy of a 40 ft bus which requires 35 passengers and a capacity of 75 passengers.
+
+This is what the chart will look like for the **Northbound** direction.
+
+```{r, echo=FALSE, out.width="100%"}
+knitr::include_graphics("C:\\Users\\tasnis1\\Desktop\\final-project-route-analysis\\figures\\Load_Profile_Northbound.png", error = FALSE)
+
+```
+
+This is what the chart will look like for the **Southbound** direction.
+
+```{r, echo=FALSE, out.width="100%"}
+knitr::include_graphics("C:\\Users\\tasnis1\\Desktop\\final-project-route-analysis\\figures\\Load_Profile_Southbound.png", error = FALSE)
+
+```
